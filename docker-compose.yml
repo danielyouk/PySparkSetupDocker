@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  blobfuse2-container:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    cap_add:
+      - SYS_ADMIN
+    devices:
+      - /dev/fuse
+    privileged: true
+    command: >
+      /bin/sh -c "rm -rf /home/spark/python-env/blobfuse/cache/* && 
+                  blobfuse2 mount /home/spark/python-env/mycontainer --config-file=/home/spark/python-env/config/config.yaml && 
+                  tail -f /dev/null"
