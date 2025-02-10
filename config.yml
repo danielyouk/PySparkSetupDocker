@@ -25,8 +25,8 @@ attr_cache:
 
 azstorage:
   type: adls
-  account-name: adsl2python
+  account-name: adls2python
   account-key: 
-  endpoint: https://adsl2python.blob.core.windows.net
+  endpoint: https://adls2python.blob.core.windows.net
   mode: key
-  container: ml-projects
+  container: pysparkproject
