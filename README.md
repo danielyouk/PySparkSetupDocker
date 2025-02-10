@@ -31,8 +31,8 @@ Participants should have:
 - Familiarity with the principles of data processing and software development.
 - No prior experience with Docker or Apache Spark is required, but it is helpful.
 
-## Enrollment
-You can enroll in this course by visiting the following link: [Enroll in Docker Spark Engine Course](https://www.inflearn.com/course/%EB%8F%84%EC%BB%A4-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%97%94%EC%A7%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+## [How to configure settings for BlobFuse2](https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration#configuration-file)]
+
 
 ## Instructor Contact
 For any queries regarding the course content or registration details, please contact the course instructor via email or through the course forum on Inflearn.
