@@ -31,8 +31,8 @@ Participants should have:
 - Familiarity with the principles of data processing and software development.
 - No prior experience with Docker or Apache Spark is required, but it is helpful.
 
-## [How to configure settings for BlobFuse2](https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration#configuration-file)]
-
+## [How to configure settings for BlobFuse2](https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration#configuration-file)
+## [How to mount an Azure Blob Storage container on Linux with BlobFuse2](https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-how-to-deploy?source=recommendations&tabs=Ubuntu#how-to-install-blobfuse2)
 
 ## Instructor Contact
 For any queries regarding the course content or registration details, please contact the course instructor via email or through the course forum on Inflearn.
